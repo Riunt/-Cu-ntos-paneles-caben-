@@ -34,7 +34,7 @@ Tu solución debe pasar los siguientes casos de prueba:
 
 ## 📝 Tu Solución
 
-..\Postulacion\explicacion.mp4
+..\explicacion.mp4
 
 ---
 
